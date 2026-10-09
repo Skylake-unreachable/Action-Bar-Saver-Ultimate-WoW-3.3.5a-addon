@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: Action Bar Saver Ultimate
+## Notes: Saves and restores your action bars
+https://github.com/Skylake-unreachable/Action-Bar-Saver-Ultimate-WoW-3.3.5a-addon
+## Author: original - Shadowed, ultimate - https://github.com/Skylake-unreachable
+## SavedVariables: ActionBarSaverDB
+
+localization.enUS.lua
+
+ActionBarSaver.lua
