@@ -23,7 +23,7 @@ Suppose you want to transfer settings from Character 1 to Character 2:
 
 Type /abs to see all commands
 
-# How to install: Extract BindPad folder to [C:\World of Warcraft 3.3.5a]\Interface\AddOns
+# How to install: Extract ActionBarSaver folder to [C:\World of Warcraft 3.3.5a]\Interface\AddOns
 
 # Screenshots:
 
